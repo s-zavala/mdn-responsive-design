@@ -77,11 +77,9 @@ main {
   header {
     display: grid;
     grid-template-columns: 3fr minmax(300px, 1fr);
-  }
-  nav {
-    display: flex;
     align-items: center;
   }
+
   nav ul{
     display: flex;
   }
